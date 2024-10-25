@@ -59,8 +59,11 @@ If you have any questions, feel free to reach out on the event's **[Questions Fo
 This guide provides step-by-step instructions on setting up the project locally, working on feature branches, and contributing through Pull Requests (PRs). Follow the branching workflow to ensure that every contribution is properly reviewed and merged.
 ### Getting Started
 #### 1. Fork and Clone the Repository
-Fork the repository first then clone the repository to your local machine using the following commands:
+Fork the repository first then clone the repository from your repo to your local machine using the following commands:
 ```aiignore
+git clone https://github.com/your username/repo.git
+
+Example:
 git clone https://github.com/ErdunE/NEU_Climate_Resiliency_Hack.git
 cd NEU_Climate_Resiliency_Hack
 ```
