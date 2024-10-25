@@ -21,6 +21,7 @@ A project for the Climate Resiliency Hack event
             - [Pull the latest changes](#pull-the-latest-changes)
             - [Switch back to your feature branch](#switch-back-to-your-feature-branch)
             - [Rebase with the main branch](#rebase-with-the-main-branch)
+6. [Contact](#contact)
 ## Project Overview
 We are XiaoYuanAlgorithm, a team from the Khoury College of Computer Sciences at Northeastern University, Miami campus, participating in the NEU Climate Resiliency Hackathon 2024. This event brings together students, faculty, and industry experts from across all Northeastern campuses to tackle pressing environmental challenges through innovative technology solutions.
 
