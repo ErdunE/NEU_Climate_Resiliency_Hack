@@ -1,4 +1,4 @@
-# NEU_Climate_Resiliency_Hack
+# NEU_Climate_Resiliency_Hack (Hurric-Aid)
 A project for the Climate Resiliency Hack event
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -23,14 +23,30 @@ A project for the Climate Resiliency Hack event
             - [Rebase with the main branch](#rebase-with-the-main-branch)
 6. [Contact](#contact)
 7. [RoadMap](#roadmap)
-8. [Meeting Notes](#meeting-notes)
+8. [Hurric - Aid Projec](#hurric---aid-project)
+   - [Hurric - Aid Workflow Chart](#hurric---aid-workflow-chart)
+   - [Hurric - Aid Website](#hurric---aid-website)
+   - [Hurric - Aid Presentation PPT](#hurric---aid-presentation-ppt)
 
 ## Project Overview
-We are XiaoYuanAlgorithm, a team from the Khoury College of Computer Sciences at Northeastern University, Miami campus, participating in the NEU Climate Resiliency Hackathon 2024. This event brings together students, faculty, and industry experts from across all Northeastern campuses to tackle pressing environmental challenges through innovative technology solutions.
+We are XiaoYuanAlgorithm, a team from the Khoury College of Computer Sciences at Northeastern University, Miami campus, participating in the NEU Climate Resiliency Hackathon 2024. This event unites students, faculty, and industry professionals from across Northeastern’s global network to address critical environmental challenges using innovative technology.
 
-Our team is still in the idea exploration phase, and we are open to approaches as the hackathon progresses, we will refine our focus and identify a specific project to develop. Whether it involves building a data-driven tool, designing a mobile application, or creating a visualization dashboard, our goal is to contribute meaningfully to climate solutions that empower communities and promote sustainability.
+Our project, Hurric-Aid, focuses on providing comprehensive support and resources to communities before, during, and after hurricanes. With a user-centered design, we aim to deliver critical services through multiple platforms (More detail showed in [Hurric - Aid Workflow Chart](#hurric---aid-workflow-chart)):
 
-This README will be updated with more details as our project takes shape. We look forward to collaborating with other participants and mentors, learning new skills, and presenting our final project at the end of the event.
+* Phone Support to ensure access when networks are down.
+* Official Website as a centralized hub for information and resources.
+* Mobile App for on-the-go access to emergency services, even offline.
+* Offline Mode to offer critical disaster guides and maps without internet connectivity.
+
+Hurric-Aid will feature a variety of functionalities:
+
+* Hurricane Prediction Tools: Real-time impact assessments, hurricane paths, and heat maps based on user-provided zip codes.
+* Pre-Hurricane Assistance: Services like supply and shelter information, home preparation support, and emergency alerts.
+* Post-Hurricane Recovery Support: Access to medical aid, search and rescue, shelter, financial aid, and emotional support.
+
+Our goal is to empower communities to prepare, stay safe, and recover quickly from hurricane events by providing timely, relevant, and accessible resources. Through Hurric-Aid, we hope to create a meaningful impact by promoting resilience and fostering sustainable recovery efforts.
+
+We are excited to collaborate with fellow participants and mentors throughout the event, refine our ideas, and present Hurric-Aid as a solution that addresses real-world climate challenges. We look forward to learning, innovating, and making a lasting contribution to climate resiliency.
 ## Team Name
 * **XiaoYuanAlgorithm**
 ## Team Member
@@ -147,9 +163,19 @@ For any questions, please contact:
 * **Raj:** kavathekar.r@northeastern.edu
 * **Kai:** liu.fengka@northeastern.edu
 
-## RoadMap
+### RoadMap
 * [Team XiaoYuanAlgorithm Roadmap: Climate Resiliency Hackathon 2024](https://docs.google.com/document/d/1RU39aRbAizuZ0VdRzSMunoO07cagzWLBvn38ZfMrXX0/edit?usp=sharing)
 
-## Meeting Notes
-### Pre-Meeting
+## Hurric - Aid Project
+### Meeting Notes
+#### Pre-Meeting
 * [Climate Resiliency Hack 2024 Pre-Meeting Agenda](https://docs.google.com/document/d/1fK6I5keUTFAs0ThUzZEJv4Epk4Wb9wZE11wWNIxSIDU/edit?usp=sharing)
+
+### Hurric - Aid Workflow Chart
+[Hurric - Aid Flowchart](https://miro.com/welcomeonboard/dGJ0eHp5cnlZNVA5T0plV05PeTZPYXJFZ29mUGFHWXR2c3hvODdOZUxtRGU3OHhqSDQzNmRpQW1iMVBPRVUyMnwzNDU4NzY0NjAyMDkxNDczMjgzfDI=?share_link_id=835841782828)
+
+### Hurric - Aid Website
+[Hurric - Aid Website](https://18510600017lfk.wixsite.com/my-site-1)
+
+### Hurric - Aid Presentation PPT
+[Hurric - Aid Presentation PPT](https://docs.google.com/presentation/d/1FKNsKOywKi9vzU5wkc--MxD55cq6Gc34zhBwWGbAjkQ/edit?usp=sharing)
